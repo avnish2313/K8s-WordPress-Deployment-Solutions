@@ -33,7 +33,7 @@ To deploy WordPress with Kubernetes solutions:
 
 ├── mysecret.yaml               # Kubernetes manifest for creating Secrets.
 
-├── myconfig.yaml               # Kubernetes manifest for creating Config Map.
+├── mysql-configmap.yaml               # Kubernetes manifest for creating Config Map.
 
 ├── wordpress-deployment.yaml   # Kubernetes manifest for WordPress Deployment and Service.
 
